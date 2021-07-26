@@ -37,14 +37,20 @@ experience:
         * Writing policy reports and web content
         * Collaborating on complex data integrations
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Analyst & Communications Specialist
+    company: GJF
+    company_url: 'www.gjf.org'
+    location: Washington, D.C.
+    date_start: '2009'
+    date_end: '2017'
+    description: 
+        * Authoring 30+ public policy reports
+        * Counseling state and local public officials, journalists, and NGOs about public policy best practices
+        * Maintaining key research databases
+        * Analyzing state and local economic development policies
+        * Delivering expert testimony and serving as an expert resource to journalists
+        * Monitoring media footprint and social media impact
+        * Develop and implement external communications strategy to influence public discourse    
 
 design:
   columns: '2'
