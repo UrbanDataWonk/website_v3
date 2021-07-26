@@ -16,14 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  - R Studio
-  - ArcGIS & QGIS mapping
-  - Power BI
-  - Tableau
-  - SQL
-  - Excel
-  - Adobe Creative Suite
+- description: R Studio, ArcGIS, QGIS, Power BI, Tableau, SQL, Excel, Adobe Creative Suite
   icon: hammer
   icon_pack: fas
   name: Preferred Tools
