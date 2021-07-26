@@ -34,6 +34,17 @@ education:
     institution: University of Illinois at Urbana-Champaign
     year: 2007
 
+# Skills to show in About widget
+skills:
+  Preferred tools:
+  - R Studio
+  - ArcGIS & QGIS mapping
+  - Power BI
+  - Tableau
+  - SQL
+  - Excel
+  - Adobe Creative Suite
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
