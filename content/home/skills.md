@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Hammer, Tape measure
-  icon: fa-hammer
+  icon: fas hammer
   icon_pack: fas
   name: Preferred Tools
 - description: 100%
