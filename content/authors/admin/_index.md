@@ -30,8 +30,9 @@ education:
   - course: Master's in Urban and Regional Planning
     institution: University of Illinois at Urbana-Champaign
     year: 2008
-  - course: Bachelor's in Urban and Regional Planning (Magna Cum Laude)
+  - course: Bachelor's in Urban and Regional Planning Magna Cum Laude
     institution: University of Illinois at Urbana-Champaign
+    Magna Cum Laude
     year: 2007
 
 # Social/Academic Networking
