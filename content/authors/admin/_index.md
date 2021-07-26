@@ -53,11 +53,11 @@ social:
   link: https://www.linkedin.com/in/ThomasCafcas
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+#To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in #`params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+# - icon: resume
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ I'm a Seattle-based researcher who loves digging into complex data, boiling it d
 
 In my freetime, I am an avid outdoors enthusiast spending summers cycling long-distances and winters skiing the Cascades. As an Eagle Scout, I feel most at home exploring remote destinations in my home of the Pacific Northwest.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
