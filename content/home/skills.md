@@ -41,6 +41,11 @@ feature:
   icon_pack: fas
   name: Urban and Regional Planning
 
+- description: Legislative review, Public testimony, Coalition building, Fiscal analysis, Program evaluation, Issue expertise in state and local taxation and economic development best practices
+  icon: landmark
+  icon_pack: fas
+  name: Public Policy Research and Analysis
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
