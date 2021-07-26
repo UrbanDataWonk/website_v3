@@ -16,18 +16,52 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Hammer, Tape measure
+- description: 
+  - R Studio
+  - ArcGIS & QGIS mapping
+  - Power BI
+  - Tableau
+  - SQL
+  - Excel
+  - Adobe Creative Suite
   icon: hammer
   icon_pack: fas
   name: Preferred Tools
-- description: 100%
+
+- description: 
+  - Data extraction & transformation
+  - Qualitative survey research
+  - API integrations
+  - Web scraping
+  - Database management
+  - Data visualization
+  - Statistics and probability
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-#- description: 10%
-#  icon: camera-retro
-#  icon_pack: fas
-#  name: Photography
+  name: Data Skills
+  
+- description: 
+  - Requirements documentation
+  - Market analysis
+  - Technical and non-technical communication
+  - Project management
+  - User research
+  icon: flask
+  icon_pack: fas
+  name: Product Research
+
+- description: 
+  - Messaging strategy
+  - Content strategy
+  - Copywriting
+  - Web analytics
+  - CMS tools
+  - Public speaking
+  - Social media tracking
+  - Media monitoring and communications
+  icon: bullhorn
+  icon_pack: fas
+  name: Marketing and Communications
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
