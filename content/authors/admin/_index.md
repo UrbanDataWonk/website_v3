@@ -58,6 +58,7 @@ social:
 # - icon: resume
 #   icon_pack: ai
 #   link: uploads/resume.pdf
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +70,3 @@ highlight_name: false
 I'm a Seattle-based researcher who loves digging into complex data, boiling it down for technical and lay audiences, and sharing insights from those investigations. I have over a decade of experience making sense of thorny public policy questions and working with journalists, public officials, academics, clients, and NGOs to build understanding for institutional change.
 
 In my freetime, I am an avid outdoors enthusiast spending summers cycling long-distances and winters skiing the Cascades. As an Eagle Scout, I feel most at home exploring remote destinations in my home of the Pacific Northwest.
-
-#
-#{{< icon name="download" pack="fas" >}} #Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
