@@ -28,7 +28,7 @@ publication_types: ["0"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-Complete list of publications: Below is a complete list of my publiications.
+Abstract: Below is a complete list of my publiications.
 
 - 2019
   - “2019 Annual Report: Our Nation, In Numbers.” USAFacts Institute. Bellevue, WA. 2019.
@@ -42,11 +42,12 @@ Complete list of publications: Below is a complete list of my publiications.
 - 2016
   - Thomas Cafcas and Greg LeRoy. “Will Amazon Fool Us Twice? Why State and Local Governments Should Stop Subsidizing the Online Giant's Growing Distribution Network.” Good Jobs First. Washington, D.C. 2016.
   - Thomas Cafcas and Greg LeRoy. “Smart Skills versus Mindless Megadeals: Cost-Effective Workforce Development.” Good Jobs First. Washington, D.C. 2016.
-	Kasia Tarczynska and Thomas Cafcas. “Slicing the Budget Pie for Big Business: How Three States Allocate Economic Development Dollars, Large Companies versus Small.” Good Jobs First. Washington, D.C. 2016.
+  - Kasia Tarczynska and Thomas Cafcas. “Slicing the Budget Pie for Big Business: How Three States Allocate Economic Development Dollars, Large Companies versus Small.” Good Jobs First. Washington, D.C. 2016.
 	
-2015	Thomas Cafcas. “A Better Deal for the District: Enhancing Economic Development Transparency and Accountability in Washington, DC.” Good Jobs First. Washington, D.C. 2015.
-	Greg LeRoy, Carolyn Fryberger, Kasia Tarczynska, Thomas Cafcas, Elizabeth Bird and Philip Mattera. “Shortchanging Small Business: How Businesses Dominate State Economic Development Incentives.” Good Jobs First. Washington, D.C. 2015.
-	Thomas Cafcas with Kasia Tarczynska, Philip Mattera and Greg LeRoy. “Memphis Blues: How Corporate Property Tax Breaks and Stadium Subsidies are Sapping the City's Fiscal Strength.” Good Jobs First. Washington, D.C. 2014.
+- 2015	
+  - Thomas Cafcas. “A Better Deal for the District: Enhancing Economic Development Transparency and Accountability in Washington, DC.” Good Jobs First. Washington, D.C. 2015.
+  - Greg LeRoy, Carolyn Fryberger, Kasia Tarczynska, Thomas Cafcas, Elizabeth Bird and Philip Mattera. “Shortchanging Small Business: How Businesses Dominate State Economic Development Incentives.” Good Jobs First. Washington, D.C. 2015.
+  - Thomas Cafcas with Kasia Tarczynska, Philip Mattera and Greg LeRoy. “Memphis Blues: How Corporate Property Tax Breaks and Stadium Subsidies are Sapping the City's Fiscal Strength.” Good Jobs First. Washington, D.C. 2014.
 	
 2014	Thomas Cafcas and Greg LeRoy. “Work for All the Crafts: Building Normal's Multimodal Transit Hub into "Illinois' Second Busiest Amtrak Station.” Good Jobs First. Washington, D.C. 2014.
 	Philip Mattera, Thomas Cafcas, Leigh McIlvaine, Kasia Tarczynska, Elizabeth Bird and Greg LeRoy. “Show Us the Subsidized Jobs: An Evaluation of State Government Online Disclosure of Economic Development Subsidy Awards and Outcomes.” Good Jobs First. Washington, D.C. 2014.
