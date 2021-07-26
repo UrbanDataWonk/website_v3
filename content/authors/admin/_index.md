@@ -20,6 +20,7 @@ interests:
 - Demography
 - Sustainable Cities
 - Government Transparency and Accountability
+- State and Local Taxation
 - Open Data
 - Government Finance
 - Communications and Marketing
