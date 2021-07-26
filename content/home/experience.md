@@ -43,7 +43,7 @@ experience:
     location: Washington, D.C.
     date_start: '2009'
     date_end: '2017'
-    description: 
+    description: |2-
         * Authoring 30+ public policy reports
         * Counseling state and local public officials, journalists, and NGOs about public policy best practices
         * Maintaining key research databases
