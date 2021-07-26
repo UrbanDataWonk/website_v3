@@ -32,7 +32,7 @@ education:
     year: 2008
   - course: Bachelor's in Urban and Regional Planning Magna Cum Laude
     institution: University of Illinois at Urbana-Champaign
-    Magna Cum Laude
+    institution: Magna Cum Laude
     year: 2007
 
 # Social/Academic Networking
