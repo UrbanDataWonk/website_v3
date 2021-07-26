@@ -36,6 +36,11 @@ feature:
   icon_pack: fas
   name: Marketing and Communications
 
+- description: Land use and comprehensive planning, Zoning, Site and physical planning, 3D modeling, Transportation demand forecasting, Participatory planning processes, Environmental planning, Demographic analysis, Employment-base analysis, Shift-share analysis, Fiscal impact analysis
+  icon: city
+  icon_pack: fas
+  name: Urban and Regional Planning
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
