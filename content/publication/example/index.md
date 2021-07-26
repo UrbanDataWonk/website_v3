@@ -28,7 +28,11 @@ publication_types: ["0"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
+<<<<<<< HEAD
 Abstract: Below is a complete list of my publiications.
+=======
+Below is a complete list of my publiications.
+>>>>>>> 4d9e3f8f36d3850cdca185958e25a4ee00ec4d4d
 
 - 2019
   - “2019 Annual Report: Our Nation, In Numbers.” USAFacts Institute. Bellevue, WA. 2019.
