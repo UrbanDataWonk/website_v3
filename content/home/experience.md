@@ -22,19 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior Research Analyst
+    company: USAF
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Bellevue, WA
+    date_start: '2017'
+    date_end: '2019'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Producing original research about government spending, revenue, and outcomes
+        * Strategizing re-launch of data portal with state and local data explorations
+        * Managing vendors across displines including UX, UI, web design, data scraping, API development, and database management
+        * Writing policy reports and web content
+        * Collaborating on complex data integrations
         
   - title: Professor of Semiconductor Physics
     company: University X
