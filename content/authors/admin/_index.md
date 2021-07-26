@@ -70,4 +70,4 @@ I'm a Seattle-based researcher who loves digging into complex data, boiling it d
 
 In my freetime, I am an avid outdoors enthusiast spending summers cycling long-distances and winters skiing the Cascades. As an Eagle Scout, I feel most at home exploring remote destinations in my home of the Pacific Northwest.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
