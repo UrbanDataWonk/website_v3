@@ -33,9 +33,9 @@ education:
   - course: Bachelor's in Urban and Regional Planning Magna Cum Laude
     institution: University of Illinois at Urbana-Champaign
     year: 2007 >-
-    -Magna Cum Laude
-    -Freshman and Junior Urban Planner of the Year
-    -Study abroad University of Sheffield, U.K.
+    description: 'Magna Cum Laude'
+#    -Freshman and Junior Urban Planner of the Year
+#    -Study abroad University of Sheffield, U.K.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
