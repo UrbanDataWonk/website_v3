@@ -21,27 +21,27 @@ feature:
   icon_pack: fas
   name: Preferred Tools
 
-- description: Data visualization, Mapping, ETL, API queries, Statistics and probability
+- description: data visualization, mapping, extract, transform, and load (ETL), API queries, statistics and probability
   icon: chart-line
   icon_pack: fas
   name: Data Skills
   
-- description: Requirements documentation,Market analysis, Project management, Survey and user research
+- description: requirements documentation, market analysis, project management, survey and user research
   icon: flask
   icon_pack: fas
   name: Product Research
 
-- description: Messaging strategy, Content strategy, Copywriting, Web analytics, CMS tools, Public speaking, Social media tracking, Media monitoring
+- description: messaging strategy, content strategy, copywriting, web analytics, CMS tools, public speaking, social media tracking, media monitoring
   icon: bullhorn
   icon_pack: fas
   name: Marketing and Communications
 
-- description: Land use and comprehensive planning, Zoning, Site and physical planning, 3D modeling, Transportation demand forecasting, Participatory planning processes, Environmental planning, Demographic analysis, Employment-base analysis, Shift-share analysis, Fiscal impact analysis
+- description: land use and comprehensive planning, zoning, site and physical planning, 3D modeling, transportation demand forecasting, participatory planning processes, environmental planning, demographic analysis, employment-base analysis, shift-share analysis, fiscal impact analysis
   icon: city
   icon_pack: fas
   name: Urban and Regional Planning
 
-- description: Legislative review, Public testimony, Coalition building, Fiscal analysis, Program evaluation, Issue expertise in state and local taxation and economic development best practices
+- description: legislative review, public testimony, coalition building, fiscal analysis, program evaluation, issue expertise in state and local taxation and economic development best practices
   icon: landmark
   icon_pack: fas
   name: Public Policy Research and Analysis
