@@ -31,6 +31,8 @@ content:
     tag: Public Policy
   - name: Data Skills
     tag: Data Skills
+  - name: Visualizations
+    tag: Visualizations
   - name: Urban Planning
     tag: Urban Planning
   - name: Economic Development
