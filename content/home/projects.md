@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Portfolio
 subtitle: ''
 
 content:
@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Public Policy
+    tag: Public Policy
+  - name: Data Skills
+    tag: Data Skills
+  - name: Urban Planning
+    tag: Urban Planning
+  - name: Economic Development
+    tag: Economic Development
+  - name: Marketing and Communications
+    tag: Marketing and Communications
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
