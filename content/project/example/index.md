@@ -1,5 +1,5 @@
 ---
-title: Data Exploration
+title: Demographics
 summary: This is a data exploration project I worked on.
 tags:
 - Demography
